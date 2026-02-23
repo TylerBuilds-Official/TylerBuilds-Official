@@ -21,7 +21,7 @@ My background in construction and fabrication shapes how I build software: solid
 
 ## Tech
 
-| Python *|* TypeScript *|* C# *|* SQL *|* React *|* WPF/.NET *|* FastAPI *|* MySQL *|* MSSQL *|* Azure AD *|* OpenAI *|* Anthropic *|* Linux *|* Vite |
+| **Python** **|** TypeScript **|** **C#** **|** SQL **|** **React** **|** WPF/.NET **|** **FastAPI** **|** MySQL **|** **MSSQL** **|** Azure AD **|** **OpenAI** **|** Anthropic **|** **Linux** **|** Vite |
 
 ## Education
 
