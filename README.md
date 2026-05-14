@@ -31,7 +31,7 @@ Self-hosted bare-metal server infrastructure, custom deployment automation frame
 
 ## Tech
 
-| **Python** **|** TypeScript **|** **C#** **|** SQL **|** **React** **|** WPF/.NET **|** **FastAPI** **|** MySQL **|** **MSSQL** **|** Azure AD **|** **OpenAI** **|** Anthropic **|** **Linux** **|** Vite |
+**Python** **|** TypeScript **|** **C#** **|** SQL **|** **React** **|** WPF/.NET **|** **FastAPI** **|** MySQL **|** **MSSQL** **|** Azure AD **|** **OpenAI** **|** Anthropic **|** **Linux** **|** Vite
 
 ## Education
 
