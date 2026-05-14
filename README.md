@@ -2,7 +2,7 @@
 
 Full-stack software engineer and founder of **TylerBuilds** a software engineering practice focused on business automation, AI integration, and custom tooling.
 
-My background in construction and fabrication shapes how I build software: solid architecture, clean interfaces, nothing that doesn't serve a purpose. I design and ship production systems end-to-end — from database schemas to deployment automation — and I maintain everything I build.
+My background in construction and fabrication shapes how I build software: solid architecture, clean interfaces, nothing that doesn't serve a purpose. I design and ship production systems end-to-end, from database schemas to deployment automation, and I maintain everything I build.
 
 ## What I Build
 
